@@ -3,3 +3,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+button:enabled:hover {
+  filter: brightness(120%);
+}
+
+input::placeholder {
+  font-family: inherit;
+  font-weight: 300;
+}
