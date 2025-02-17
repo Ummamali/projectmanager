@@ -5,6 +5,17 @@ Project Manager is a web-based application built with React and modern frontend 
 
 <img src="./preview.jpg"/>
 
+## Technologies  
+
+- **HTML5** – Provides the structural foundation for the application's user interface.  
+- **CSS3** – Styles the UI, ensuring a visually appealing and responsive design.  
+- **Tailwind CSS** – Simplifies styling with utility-first classes for a clean and consistent look.  
+- **JavaScript** – Powers the application's interactivity and dynamic behavior.  
+- **React** – Enables efficient component-based development for a seamless user experience.  
+- **Node.js** – Powers the backend, enabling server-side operations and API handling.  
+- **npm** – Manages project dependencies and scripts for smooth development and deployment. 
+
+
 ## Installation  
 
 Follow these steps to set up and run the Project Manager app locally (Make sure you have Node.js and npm installed before running the commands):  
