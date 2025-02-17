@@ -37,5 +37,10 @@ Follow these steps to set up and run the Project Manager app locally (Make sure 
 - **Delete Tasks When Completed**  
   - Remove completed tasks easily  
   - Keep the workspace clutter-free  
-  - Maintain focus on pending tasks  
+  - Maintain focus on pending tasks
+
+- **Delete Project**  
+  - Remove entire projects when no longer needed  
+  - Ensure outdated projects don’t clutter the workspace  
+  - Permanently delete all associated tasks  
 
