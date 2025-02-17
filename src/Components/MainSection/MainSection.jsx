@@ -52,7 +52,7 @@ export default function MainSection({
             Delete
           </button>
         </div>
-        <p>{project.description}</p>
+        <p className="text-gray-800/90">{project.description}</p>
       </header>
       <div>
         <h2 className="text-2xl mb-3">Tasks</h2>
@@ -86,7 +86,7 @@ export default function MainSection({
                 taskStatusClasses[tsk.status]
               }`}
             >
-              <p>{tsk.text}</p>
+              <p className="text-gray-700">{tsk.text}</p>
               <button
                 className="text-red-700"
                 onClick={() => requestDeleteTask(project.id, tsk.id)}
