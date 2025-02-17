@@ -13,7 +13,8 @@ Project Manager is a web-based application built with React and modern frontend 
 - **JavaScript** – Powers the application's interactivity and dynamic behavior.  
 - **React** – Enables efficient component-based development for a seamless user experience.  
 - **Node.js** – Powers the backend, enabling server-side operations and API handling.  
-- **npm** – Manages project dependencies and scripts for smooth development and deployment. 
+- **npm** – Manages project dependencies and scripts for smooth development and deployment.
+- **Vite** – Provides a fast and efficient development environment, enabling quicker build times and improved performance for React applications.  
 
 
 ## Installation  
