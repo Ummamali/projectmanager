@@ -58,4 +58,5 @@ Follow these steps to set up and run the Project Manager app locally (Make sure 
 
 ## License  
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+This project is licensed under the **MIT License**. For more details, visit [MIT License](https://opensource.org/licenses/MIT).  
+  
