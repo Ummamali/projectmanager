@@ -21,3 +21,21 @@ Follow these steps to set up and run the Project Manager app locally (Make sure 
 3. **Start the development server:**
      ```sh
      npm run dev
+
+## Features  
+
+- **Create Project**  
+  - Add new projects effortlessly  
+  - Provide a detailed project description  
+  - Organize projects for better management  
+
+- **Add Tasks in Project**  
+  - Assign tasks within a project  
+  - Set deadlines and priorities  
+  - Track progress in real-time  
+
+- **Delete Tasks When Completed**  
+  - Remove completed tasks easily  
+  - Keep the workspace clutter-free  
+  - Maintain focus on pending tasks  
+
