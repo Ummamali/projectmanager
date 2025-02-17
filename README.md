@@ -51,6 +51,10 @@ Follow these steps to set up and run the Project Manager app locally (Make sure 
   - Keep the workspace clutter-free  
   - Maintain focus on pending tasks
 
+## License  
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
 - **Delete Project**  
   - Remove entire projects when no longer needed  
   - Ensure outdated projects don’t clutter the workspace  
