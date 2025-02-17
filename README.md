@@ -11,8 +11,8 @@ Follow these steps to set up and run the Project Manager app locally (Make sure 
 
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/your-username/project-manager.git
-   cd project-manager
+   git clone https://github.com/Ummamali/projectmanager.git
+   cd projectmanager
 
 2. **Install dependencies:**
     ```sh
